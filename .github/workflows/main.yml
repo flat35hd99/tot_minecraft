@@ -28,8 +28,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Delete git and zip
         run: |
-          rm -rf tot_minecraft/.git
-          zip -r release.zip tot_minecraft
+          rm -rf .git
+          zip -r release.zip ./
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
