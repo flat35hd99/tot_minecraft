@@ -36,3 +36,57 @@
 [07:41:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
 [08:10:17] [Server thread/INFO]: Yuki2769 lost connection: Disconnected
 [08:10:17] [Server thread/INFO]: Yuki2769 left the game
+[08:58:46] [User Authenticator #2/INFO]: UUID of player flat35hd99 is 2c96bcd0-c397-42e6-bd95-a643d2f79342
+[08:58:46] [Server thread/INFO]: flat35hd99[/118.105.230.174:62574] logged in with entity id 4765 at (-101.66729565080797, 67.0, -187.2494192103254)
+[08:58:46] [Server thread/INFO]: flat35hd99 joined the game
+[09:11:33] [User Authenticator #3/INFO]: UUID of player Yuki2769 is 2229c4de-d374-4d36-812e-390dbd124485
+[09:11:33] [Server thread/INFO]: Yuki2769[/221.35.158.40:50350] logged in with entity id 7474 at (-102.5, 67.0, -188.5)
+[09:11:33] [Server thread/INFO]: Yuki2769 joined the game
+[09:11:43] [Server thread/INFO]: <Yuki2769> hello
+[09:11:53] [Server thread/INFO]: <flat35hd99> hello
+[09:12:38] [Server thread/INFO]: <flat35hd99> 今worldの移行処理してるから、この作業無意味になるかも
+[09:12:45] [Server thread/INFO]: flat35hd99 lost connection: Disconnected
+[09:12:45] [Server thread/INFO]: flat35hd99 left the game
+[09:18:11] [User Authenticator #4/INFO]: UUID of player flat35hd99 is 2c96bcd0-c397-42e6-bd95-a643d2f79342
+[09:18:12] [Server thread/INFO]: flat35hd99[/118.105.230.174:62838] logged in with entity id 8320 at (-83.69630068473825, 66.9375, -181.56588152413443)
+[09:18:12] [Server thread/INFO]: flat35hd99 joined the game
+[09:27:15] [Server thread/INFO]: flat35hd99 lost connection: Disconnected
+[09:27:15] [Server thread/INFO]: flat35hd99 left the game
+[09:29:03] [User Authenticator #5/INFO]: UUID of player tkmax777 is 8a94b59a-d257-4a85-b64f-b1f4565383d9
+[09:29:03] [Server thread/INFO]: tkmax777[/134.180.220.101:59671] logged in with entity id 10647 at (-97.96659243006123, 67.0, -179.9620306147869)
+[09:29:03] [Server thread/INFO]: tkmax777 joined the game
+[09:29:33] [Server thread/INFO]: tkmax777 lost connection: Disconnected
+[09:29:33] [Server thread/INFO]: tkmax777 left the game
+[09:30:11] [User Authenticator #6/INFO]: UUID of player flat35hd99 is 2c96bcd0-c397-42e6-bd95-a643d2f79342
+[09:30:11] [Server thread/INFO]: flat35hd99[/118.105.230.174:63081] logged in with entity id 10808 at (-673.8993466403956, 63.0, -183.36436783639203)
+[09:30:11] [Server thread/INFO]: flat35hd99 joined the game
+[09:30:49] [Server thread/INFO]: <flat35hd99> 中根さん
+[09:31:06] [Server thread/INFO]: <Yuki2769> what?
+[09:31:13] [Server thread/INFO]: <flat35hd99> このサーバー消えるので、数時間分の作業消える予定なんですけど、いいっすか
+[09:31:50] [Server thread/INFO]: <Yuki2769> ま？
+[09:31:55] [Server thread/INFO]: <flat35hd99> ま
+[09:32:06] [Server thread/INFO]: <flat35hd99> どうしても消えて欲しくないものとかある？
+[09:32:14] [Server thread/INFO]: <flat35hd99> 割と作業がんばっちゃった？
+[09:32:47] [Server thread/INFO]: <Yuki2769> 今は床の張替えしてただけだから大丈夫
+[09:33:12] [Server thread/INFO]: <flat35hd99> じゃあ申し訳ないが、きょうのお昼以降の作業は消えます
+[09:33:28] [Server thread/INFO]: <flat35hd99> discordで新しいサーバーのリンク中井がはってくれるはず
+[09:33:32] [Server thread/INFO]: <flat35hd99> ではでは
+[09:33:38] [Server thread/INFO]: <flat35hd99> good bye
+[09:33:44] [Server thread/INFO]: <Yuki2769> おっす
+[09:33:46] [Server thread/INFO]: Yuki2769 lost connection: Disconnected
+[09:33:46] [Server thread/INFO]: Yuki2769 left the game
+[09:34:13] [Server thread/INFO]: flat35hd99 lost connection: Disconnected
+[09:34:13] [Server thread/INFO]: flat35hd99 left the game
+[09:35:39] [Server thread/INFO]: Stopping the server
+[09:35:39] [Server thread/INFO]: Stopping server
+[09:35:39] [Server thread/INFO]: Saving players
+[09:35:39] [Server thread/INFO]: Saving worlds
+[09:35:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:35:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:35:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
