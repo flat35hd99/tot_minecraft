@@ -1,18 +1,13 @@
-[02:30:43] [User Authenticator #11/INFO]: UUID of player flat35hd99 is 2c96bcd0-c397-42e6-bd95-a643d2f79342
-[02:30:43] [Server thread/INFO]: flat35hd99[/118.105.230.174:53142] logged in with entity id 70651 at (-671.6999999880791, 60.0, -172.69999998807907)
-[02:30:43] [Server thread/INFO]: flat35hd99 joined the game
-[02:46:45] [Server thread/INFO]: flat35hd99 lost connection: Disconnected
-[02:46:45] [Server thread/INFO]: flat35hd99 left the game
-[02:48:34] [Server thread/INFO]: Stopping the server
-[02:48:34] [Server thread/INFO]: Stopping server
-[02:48:34] [Server thread/INFO]: Saving players
-[02:48:34] [Server thread/INFO]: Saving worlds
-[02:48:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:48:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:48:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:48:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:48:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:48:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:48:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:48:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:48:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:44:28] [Server thread/INFO]: Stopping the server
+[06:44:28] [Server thread/INFO]: Stopping server
+[06:44:28] [Server thread/INFO]: Saving players
+[06:44:28] [Server thread/INFO]: Saving worlds
+[06:44:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:44:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:44:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
